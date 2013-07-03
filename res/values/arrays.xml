@@ -1515,6 +1515,7 @@
         <item>2</item>
     </string-array>
 
+<<<<<<< HEAD
     <string-array name="clock_date_format_entries">
         <item>dd/MM/yy</item>
         <item>MM/dd/yy</item>
@@ -2521,6 +2522,14 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+    </string-array>
+
+    <string-array name="location_entries_gps_source">
+        <item>Use Internal GPS</item>
+    </string-array>
+
+    <string-array name="location_values_gps_source" translatable="false">
+        <item>0</item>
     </string-array>
 
     <!-- **** C-RoM EDITS END **** -->
